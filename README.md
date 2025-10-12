@@ -1,4 +1,4 @@
-## Hi there 👋
+## \
 
 [![Codewars](https://www.codewars.com/users/slashdekomori/badges/small)](https://www.codewars.com/users/slashdekomori)
 
